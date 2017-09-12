@@ -8,5 +8,12 @@ package interfacesegregation;
  *
  */
 public class Main {
+    public static void main(String[] args) {
+        Tree balancedTree = new BalancedTree();
+        Tree binarySearchTree = new BinarySearchTree();
+
+        balancedTree.traverse();
+        binarySearchTree.traverse();
+    }
 
 }

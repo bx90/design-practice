@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creational/creational.iml" filepath="$PROJECT_DIR$/.idea/modules/creational/creational.iml" group="creational" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creational/creational_main.iml" filepath="$PROJECT_DIR$/.idea/modules/creational/creational_main.iml" group="creational" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creational/creational_test.iml" filepath="$PROJECT_DIR$/.idea/modules/creational/creational_test.iml" group="creational" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpractice.iml" filepath="$PROJECT_DIR$/.idea/modules/designpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpractice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/designpractice_main.iml" group="designpractice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpractice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/designpractice_test.iml" group="designpractice" />
       <module fileurl="file://$PROJECT_DIR$/creational/src/main/main.iml" filepath="$PROJECT_DIR$/creational/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/solid/solid.iml" filepath="$PROJECT_DIR$/solid/solid.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/src/test/test.iml" filepath="$PROJECT_DIR$/creational/src/test/test.iml" />

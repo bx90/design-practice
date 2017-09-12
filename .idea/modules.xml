@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpractice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/designpractice_main.iml" group="designpractice" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpractice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/designpractice_test.iml" group="designpractice" />
       <module fileurl="file://$PROJECT_DIR$/creational/src/main/main.iml" filepath="$PROJECT_DIR$/creational/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/solid/solid.iml" filepath="$PROJECT_DIR$/solid/solid.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/src/test/test.iml" filepath="$PROJECT_DIR$/creational/src/test/test.iml" />
     </modules>

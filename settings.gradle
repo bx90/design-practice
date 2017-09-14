@@ -1,3 +1,6 @@
 rootProject.name = 'designpractice'
 include 'creational'
+include 'testm'
+include 'solid'
+include 'pattern'
 

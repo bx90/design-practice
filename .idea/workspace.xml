@@ -2,48 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="860b205e-f671-4078-9433-a31451334397" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/clone/WeeklyLog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/button/Button.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/button/SpringButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/button/SummerButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/combobox/ComboBox.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/combobox/SpringComboBox.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/combobox/SummerComboBox.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/skinfactory/SkinFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/skinfactory/SpringSkinFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/skinfactory/SummerSkinFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/textfield/SpringTextField.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/textfield/SummerTextField.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/factory/textfield/TextField.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/dependencyinversion/Database.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/dependencyinversion/DatabaseRelatedAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/dependencyinversion/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/dependencyinversion/MySQL.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/dependencyinversion/Oracle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/interfacesegregation/BalancedTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/interfacesegregation/BalancedTreeInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/interfacesegregation/BinarySearchTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/interfacesegregation/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/interfacesegregation/Tree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/ElectricVehicle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/HondaAccord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/NissanLeaf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/NormalVehicle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/Vehicle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/badway/HondaAccord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/badway/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/badway/NissanLeaf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/liskov/badway/Vehicle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/openclose/BubbleSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/openclose/InsertionSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/openclose/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/openclose/SortCaller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/openclose/Sorter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/singleresponce/Book.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/singleresponce/BookAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/singleresponce/BookMaster.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/solid/singleresponce/Main.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/template/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solid/src/dependencyinversion/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -123,7 +91,7 @@
       <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/template/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="120">
               <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
               <folding>
                 <element signature="e#121#122#0" expanded="true" />
@@ -150,7 +118,7 @@
       <file leaf-file-name="NameIterator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/iterator/NameIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="240">
               <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding>
                 <element signature="e#169#170#0" expanded="true" />
@@ -162,25 +130,25 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/command/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="NameRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/iterator/NameRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="105">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#135#136#0" expanded="true" />
                 <element signature="e#180#181#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/command/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -522,7 +490,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6020758456000" />
+        <entry key="$PROJECT_DIR$" value="4515568842000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -682,10 +650,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="719" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-127" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -703,7 +672,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -735,44 +714,24 @@
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpractice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="solid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpractice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -786,7 +745,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -795,25 +754,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="behavioral.template.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="patterns" />
-      <envs />
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="behavioral.strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="behavioral.strategy.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -880,6 +820,25 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="patterns" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="dependencyinversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="dependencyinversion.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="solid" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -963,27 +922,24 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main (3)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main (4)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main (5)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (5)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (5)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (4)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -995,25 +951,27 @@
       <workItem from="1505189665030" duration="1541000" />
       <workItem from="1505191844701" duration="1000" />
       <workItem from="1505191850062" duration="8820000" />
-      <workItem from="1505397776955" duration="6000" />
+      <workItem from="1505398492132" duration="225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10395000" />
+    <option name="totallyTimeSpent" value="10620000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="719" extended-state="0" />
+    <frame x="-250" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938856" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1025,15 +983,13 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1094,6 +1050,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1108,11 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="e#112#113#0" expanded="false" />
-            <element signature="e#216#217#0" expanded="false" />
-            <element signature="e#277#278#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1127,7 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1161,8 +1112,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solid/src/dependencyinversion/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1177,11 +1129,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="e#112#113#0" expanded="false" />
-            <element signature="e#216#217#0" expanded="false" />
-            <element signature="e#277#278#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1203,7 +1150,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1211,14 +1157,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solid/src/dependencyinversion/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1375,14 +1313,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/command/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/iterator/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1393,7 +1323,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/iterator/NameIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="240">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding>
             <element signature="e#169#170#0" expanded="true" />
@@ -1406,7 +1336,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/iterator/NameRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="105">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#135#136#0" expanded="true" />
@@ -1448,7 +1378,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/template/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="120">
           <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
           <folding>
             <element signature="e#121#122#0" expanded="true" />
@@ -1463,8 +1393,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/template/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solid/src/dependencyinversion/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/src/behavioral/command/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1521,11 +1467,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>main</last-edited>
+          <last-edited>designpractice_test|designpractice</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1545,7 +1492,18 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>gradle-wrapper</last-edited>
+          <last-edited>Gradle: com.beust:jcommander:1.48</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -15,6 +15,20 @@ package builder;
  * "immutable objects"
  * ~ so there will not be any problems because of concurrent updates by
  * multiple threads
+ *
+ * Speaking of the component:
+ *
+ *   Class {
+ *       private constructor(Builder builder)
+ *
+ *       public static class Builder() {
+ *          1. Same fields with the outer class.
+ *          2. mocked "setter" classes which return Builder type.
+ *          2. A "build" method that returns a outer class type.
+ *       }
+ *   }
+ *
+ *
  */
 public class Main {
     public static void main(String[] args) {

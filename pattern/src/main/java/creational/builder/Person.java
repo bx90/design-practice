@@ -1,4 +1,4 @@
-package builder;
+package creational.builder;
 
 public class Person {
     private String name;

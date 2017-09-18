@@ -1,4 +1,4 @@
-package adapter;
+package structural.adapter;
 
 public class BikeAdaptToVehicle implements Vehicle {
     private Bike bike;

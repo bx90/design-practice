@@ -1,4 +1,4 @@
-package decorator;
+package structural.decorator;
 
 /**
  * This is the starting point/base object.

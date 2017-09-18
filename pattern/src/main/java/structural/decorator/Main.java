@@ -1,4 +1,4 @@
-package decorator;
+package structural.decorator;
 
 /**
  * Has the run time flexibility.

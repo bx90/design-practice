@@ -6,3 +6,19 @@
     meanings captured in a small space; and through this density, it becomes profound. 
                                                                                         
                                                                                             -- Christopher Alexander
+                                                                                           
+                                                                                           
+                                                                                           
+                                                                                           
+                                                                                           
+                                                                                           
+                                                                                           
+
+##Contents:
+*  SOLID principles:
+    * [Single responsibility](https://github.com/bx90/designpractice/tree/master/solid/src/main/java/singleresponce)
+    * [Open closed](https://github.com/bx90/designpractice/tree/master/solid/src/main/java/openclose)
+    * [Liskov substitute](https://github.com/bx90/designpractice/tree/master/solid/src/main/java/liskov)
+    * [Interface segregation](https://github.com/bx90/designpractice/tree/master/solid/src/main/java/interfacesegregation)
+    * [Dependency inversion](https://github.com/bx90/designpractice/tree/master/solid/src/main/java/dependencyinversion)
+                                                                            

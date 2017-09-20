@@ -12,6 +12,5 @@ public class Main {
         SortManager sort = new SortManager();
         sort.bubbleSort();
         sort.mergeSort();
-
     }
 }

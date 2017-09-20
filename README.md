@@ -14,7 +14,7 @@
                                                                                            
                                                                                            
 
-##Contents:
+## Contents:
 *  SOLID principles:
     * [Single responsibility](https://github.com/bx90/designpractice/tree/master/solid/src/main/java/singleresponce)
     * [Open closed](https://github.com/bx90/designpractice/tree/master/solid/src/main/java/openclose)

@@ -20,3 +20,19 @@
     * [Interface segregation](https://github.com/bx90/designpractice/tree/master/solid/src/main/java/interfacesegregation)
     * [Dependency inversion](https://github.com/bx90/designpractice/tree/master/solid/src/main/java/dependencyinversion)
                                                                             
+* Design Patterns:
+    * [Behavioral](https://github.com/bx90/designpractice/tree/master/pattern/src/main/java/behavioral)
+        * Command
+        * Iterator
+        * Observer
+        * Strategy
+        * Template
+        * Visitor
+    * [Creational](https://github.com/bx90/designpractice/tree/master/pattern/src/main/java/creational)
+        * Builder
+        * Factory
+        * Singleton
+    * [Structural](https://github.com/bx90/designpractice/tree/master/pattern/src/main/java/structural)
+        * Adapter
+        * Decorator
+        * Facade
